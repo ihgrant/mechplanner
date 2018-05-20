@@ -12,6 +12,7 @@
     "typeface-roboto": "^0.0.54"
   },
   "scripts": {
+    "build": "parcel build index.html",
     "develop": "parcel index.html"
   },
   "devDependencies": {
