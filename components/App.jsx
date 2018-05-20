@@ -1,6 +1,8 @@
 import React, { Component } from "react";
-import MechChoice from "./MechChoice";
+import AppBar from "./AppBar";
+import Heat from "./Heat";
 import Section from "./Section";
+import AddItemDialog from "./AddItemDialog";
 
 export default class App extends Component {
     constructor() {
@@ -12,28 +14,46 @@ export default class App extends Component {
 
         return (
             <div style={{ width: "100%" }}>
-                <MechChoice />
-                <h1>{`${mech.Designation} ${mech.Model}`}</h1>
-                <h2>{`${mech.Tons} Tons (${this.props.tonsFree} free)`}</h2>
-                <div style={{ display: "flex" }}>
-                    <div style={{ flex: 2 }} />
-                    <Section section="h" name={"Head"} />
-                    <div style={{ flex: 2 }} />
+                <AppBar />
+                <div style={{ padding: "1rem" }}>
+                    <div style={{ display: "flex" }}>
+                        <div style={{ flex: 2 }}>
+                            <Heat />
+                            <h2>{`${mech.Tons} Tons (${
+                                this.props.tonsFree
+                            } free)`}</h2>
+                        </div>
+                        <div style={{ width: "2rem" }} />
+                        <Section section="h" name={"Head"} />
+                        <div style={{ width: "2rem" }} />
+                        <div style={{ flex: 2 }} />
+                    </div>
+                    <div style={{ height: "1rem" }} />
+                    <div style={{ display: "flex" }}>
+                        <Section section="la" name={"Left Arm"} />
+                        <div style={{ width: "1rem" }} />
+                        <Section section="lt" name={"Left Torso"} />
+                        <div style={{ width: "1rem" }} />
+                        <Section section="ct" name={"Center Torso"} />
+                        <div style={{ width: "1rem" }} />
+                        <Section section="rt" name={"Right Torso"} />
+                        <div style={{ width: "1rem" }} />
+                        <Section section="ra" name={"Right Arm"} />
+                    </div>
+                    <div style={{ height: "1rem" }} />
+                    <div style={{ display: "flex" }}>
+                        <div style={{ flex: 1 }} />
+                        <div style={{ width: "1rem" }} />
+                        <Section section="ll" name={"Left Leg"} />
+                        <div style={{ width: "1rem" }} />
+                        <div style={{ flex: 1 }} />
+                        <div style={{ width: "1rem" }} />
+                        <Section section="rl" name={"Right Leg"} />
+                        <div style={{ width: "1rem" }} />
+                        <div style={{ flex: 1 }} />
+                    </div>
                 </div>
-                <div style={{ display: "flex" }}>
-                    <Section section="la" name={"Left Arm"} />
-                    <Section section="lt" name={"Left Torso"} />
-                    <Section section="ct" name={"Center Torso"} />
-                    <Section section="rt" name={"Right Torso"} />
-                    <Section section="ra" name={"Right Arm"} />
-                </div>
-                <div style={{ display: "flex" }}>
-                    <div style={{ flex: 1 }} />
-                    <Section section="ll" name={"Left Leg"} />
-                    <div style={{ flex: 1 }} />
-                    <Section section="rl" name={"Right Leg"} />
-                    <div style={{ flex: 1 }} />
-                </div>
+                <AddItemDialog />
             </div>
         );
     }

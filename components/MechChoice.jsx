@@ -1,21 +1,23 @@
 import React from "react";
 import { connect } from "react-redux";
+import MenuItem from "@material-ui/core/MenuItem";
+import Select from "@material-ui/core/Select";
 import { chooseMech } from "../actions";
 import mechs from "../mechs.json";
 
 function MechChoice(props = { onChange: id => {}, options: [], value: 0 }) {
     return (
-        <select
+        <Select
             name="mech-choice"
-            onChange={e => props.onChange(e.currentTarget.value)}
+            onChange={e => props.onChange(e.target.value)}
             value={props.value}
         >
             {props.options.map(el => (
-                <option key={el.id} value={el.id}>
+                <MenuItem key={el.id} value={el.id}>
                     {el.name}
-                </option>
+                </MenuItem>
             ))}
-        </select>
+        </Select>
     );
 }
 
