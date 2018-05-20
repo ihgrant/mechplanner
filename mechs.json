@@ -16,60 +16,49 @@
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 45
+                "Support": 0
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 1,
-                "Support": 0,
-                "Max Armor": 30
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 50,
-                "Max Armor Rear": 25
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 2,
                 "Missile": 0,
-                "Support": 2,
-                "Max Armor": 60,
-                "Max Armor Rear": 30
+                "Support": 2
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 50,
-                "Max Armor Rear": 25
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 1,
-                "Support": 0,
-                "Max Armor": 30
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 40
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 40
+                "Support": 0
             }
         }
     },
@@ -90,60 +79,49 @@
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             }
         }
     },
@@ -164,60 +142,49 @@
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             }
         }
     },
@@ -238,60 +205,49 @@
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             }
         }
     },
@@ -312,60 +268,49 @@
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             }
         }
     },
@@ -386,60 +331,49 @@
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             }
         }
     },
@@ -460,60 +394,49 @@
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             }
         }
     },
@@ -534,60 +457,49 @@
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             }
         }
     },
@@ -608,60 +520,49 @@
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             }
         }
     },
@@ -682,60 +583,49 @@
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             }
         }
     },
@@ -756,60 +646,49 @@
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             }
         }
     },
@@ -830,60 +709,49 @@
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             }
         }
     },
@@ -904,60 +772,49 @@
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             }
         }
     },
@@ -978,60 +835,49 @@
                 "Ballistic": 0,
                 "Energy": 1,
                 "Missile": 0,
-                "Support": 1,
-                "Max Armor": 0
+                "Support": 1
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             }
         }
     },
@@ -1052,60 +898,49 @@
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             }
         }
     },
@@ -1126,60 +961,49 @@
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             }
         }
     },
@@ -1200,60 +1024,49 @@
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             }
         }
     },
@@ -1274,60 +1087,49 @@
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 1,
-                "Max Armor": 0
+                "Support": 1
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             }
         }
     },
@@ -1348,60 +1150,49 @@
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 1,
-                "Max Armor": 0
+                "Support": 1
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             }
         }
     },
@@ -1422,60 +1213,49 @@
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             }
         }
     },
@@ -1496,60 +1276,49 @@
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             }
         }
     },
@@ -1570,60 +1339,49 @@
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             }
         }
     },
@@ -1644,60 +1402,49 @@
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             }
         }
     },
@@ -1718,60 +1465,49 @@
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 1,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             }
         }
     },
@@ -1792,60 +1528,49 @@
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 1,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             }
         }
     },
@@ -1866,60 +1591,49 @@
                 "Ballistic": 0,
                 "Energy": 1,
                 "Missile": 0,
-                "Support": 1,
-                "Max Armor": 0
+                "Support": 1
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             }
         }
     },
@@ -1940,60 +1654,49 @@
                 "Ballistic": 0,
                 "Energy": 1,
                 "Missile": 0,
-                "Support": 1,
-                "Max Armor": 0
+                "Support": 1
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             }
         }
     },
@@ -2014,60 +1717,49 @@
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             }
         }
     },
@@ -2088,60 +1780,49 @@
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             }
         }
     },
@@ -2162,60 +1843,49 @@
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             }
         }
     },
@@ -2236,60 +1906,49 @@
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             }
         }
     },
@@ -2310,60 +1969,49 @@
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             }
         }
     },
@@ -2384,60 +2032,49 @@
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             }
         }
     },
@@ -2458,60 +2095,49 @@
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             }
         }
     },
@@ -2532,60 +2158,49 @@
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             }
         }
     },
@@ -2606,60 +2221,49 @@
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             }
         }
     },
@@ -2680,60 +2284,49 @@
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             }
         }
     },
@@ -2754,60 +2347,49 @@
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             }
         }
     },
@@ -2828,60 +2410,49 @@
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 1,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             }
         }
     },
@@ -2902,60 +2473,49 @@
                 "Ballistic": 0,
                 "Energy": 1,
                 "Missile": 0,
-                "Support": 1,
-                "Max Armor": 0
+                "Support": 1
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             }
         }
     },
@@ -2976,60 +2536,49 @@
                 "Ballistic": 0,
                 "Energy": 1,
                 "Missile": 0,
-                "Support": 1,
-                "Max Armor": 0
+                "Support": 1
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             }
         }
     },
@@ -3050,60 +2599,49 @@
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             }
         }
     },
@@ -3124,60 +2662,49 @@
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             }
         }
     },
@@ -3198,60 +2725,49 @@
                 "Ballistic": 0,
                 "Energy": 1,
                 "Missile": 0,
-                "Support": 1,
-                "Max Armor": 0
+                "Support": 1
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             }
         }
     },
@@ -3272,60 +2788,49 @@
                 "Ballistic": 0,
                 "Energy": 1,
                 "Missile": 0,
-                "Support": 1,
-                "Max Armor": 0
+                "Support": 1
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             }
         }
     },
@@ -3346,60 +2851,49 @@
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             }
         }
     },
@@ -3420,60 +2914,49 @@
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             }
         }
     },
@@ -3494,60 +2977,49 @@
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             }
         }
     },
@@ -3568,60 +3040,49 @@
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             }
         }
     },
@@ -3642,60 +3103,49 @@
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             }
         }
     },
@@ -3716,60 +3166,49 @@
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             }
         }
     },
@@ -3790,60 +3229,49 @@
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             }
         }
     },
@@ -3864,60 +3292,49 @@
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             }
         }
     },
@@ -3938,60 +3355,49 @@
                 "Ballistic": 0,
                 "Energy": 1,
                 "Missile": 0,
-                "Support": 1,
-                "Max Armor": 0
+                "Support": 1
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             }
         }
     },
@@ -4012,60 +3418,49 @@
                 "Ballistic": 0,
                 "Energy": 1,
                 "Missile": 0,
-                "Support": 1,
-                "Max Armor": 0
+                "Support": 1
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             }
         }
     },
@@ -4086,60 +3481,49 @@
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             }
         }
     },
@@ -4160,60 +3544,49 @@
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             }
         }
     },
@@ -4234,60 +3607,49 @@
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "CT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RT": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0,
-                "Max Armor Rear": 0
+                "Support": 0
             },
             "RA": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "LL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             },
             "RL": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
-                "Support": 0,
-                "Max Armor": 0
+                "Support": 0
             }
         }
     }

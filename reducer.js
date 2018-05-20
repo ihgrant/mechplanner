@@ -1,20 +1,28 @@
 const initialState = {
     isDirty: false,
     loadout: {
-        h: [{ Designation: "Small Laser", Tons: 5 }],
-        la: [null, null, null, null, null, null, null, null],
-        lt: [null, null, null, null, null, null, null, null, null, null],
-        ct: [null, null, null, null],
-        rt: [null, null, null, null, null, null, null, null, null, null],
-        ra: [null, null, null, null, null, null, null, null],
-        ll: [null, null, null, null],
-        rl: [null, null, null, null]
+        h: [],
+        la: [],
+        lt: [],
+        ct: [],
+        rt: [],
+        ra: [],
+        ll: [],
+        rl: []
     },
     mechId: 0
 };
 
 function rootReducer(state = initialState, action) {
     switch (action.type) {
+        case "ADD_ITEM":
+            return Object.assign({}, state, {
+                loadout: Object.assign({}, state.loadout, {
+                    [action.section]: state.loadout[action.section].concat(
+                        action.item
+                    )
+                })
+            });
         case "CHOOSE_MECH":
             return Object.assign({}, state, {
                 isDirty: false,
