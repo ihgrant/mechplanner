@@ -1,0 +1,4294 @@
+[
+    {
+        "Designation": "Locust",
+        "Model": "LCT-1M",
+        "Class": "Light",
+        "Tons": 20,
+        "Tons Free": 7,
+        "To Hit": -2,
+        "Max Jets": 8,
+        "Ballistic": 0,
+        "Energy": 2,
+        "Missile": 2,
+        "Support": 2,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 45
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 1,
+                "Support": 0,
+                "Max Armor": 30
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 50,
+                "Max Armor Rear": 25
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 2,
+                "Missile": 0,
+                "Support": 2,
+                "Max Armor": 60,
+                "Max Armor Rear": 30
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 50,
+                "Max Armor Rear": 25
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 1,
+                "Support": 0,
+                "Max Armor": 30
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 40
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 40
+            }
+        }
+    },
+    {
+        "Designation": "Locust",
+        "Model": "LCT-1S",
+        "Class": "Light",
+        "Tons": 20,
+        "Tons Free": 7,
+        "To Hit": -2,
+        "Max Jets": 8,
+        "Ballistic": 0,
+        "Energy": 1,
+        "Missile": 4,
+        "Support": 1,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            }
+        }
+    },
+    {
+        "Designation": "Locust",
+        "Model": "LCT-1V",
+        "Class": "Light",
+        "Tons": 20,
+        "Tons Free": 7,
+        "To Hit": -2,
+        "Max Jets": 8,
+        "Ballistic": 2,
+        "Energy": 1,
+        "Missile": 0,
+        "Support": 3,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            }
+        }
+    },
+    {
+        "Designation": "Commando",
+        "Model": "COM-1B",
+        "Class": "Light",
+        "Tons": 25,
+        "Tons Free": 12,
+        "To Hit": -2,
+        "Max Jets": 6,
+        "Ballistic": 0,
+        "Energy": 3,
+        "Missile": 1,
+        "Support": 2,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            }
+        }
+    },
+    {
+        "Designation": "Commando",
+        "Model": "COM-2D",
+        "Class": "Light",
+        "Tons": 25,
+        "Tons Free": 12,
+        "To Hit": -2,
+        "Max Jets": 6,
+        "Ballistic": 0,
+        "Energy": 1,
+        "Missile": 3,
+        "Support": 1,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            }
+        }
+    },
+    {
+        "Designation": "Spider",
+        "Model": "SDR-5V",
+        "Class": "Light",
+        "Tons": 30,
+        "Tons Free": 9.5,
+        "To Hit": -2,
+        "Max Jets": 8,
+        "Ballistic": 0,
+        "Energy": 2,
+        "Missile": 0,
+        "Support": 2,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            }
+        }
+    },
+    {
+        "Designation": "Urbanmech",
+        "Model": "UM-R60",
+        "Class": "Light",
+        "Tons": 30,
+        "Tons Free": 21.5,
+        "To Hit": -2,
+        "Max Jets": 4,
+        "Ballistic": 4,
+        "Energy": 2,
+        "Missile": 0,
+        "Support": 2,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            }
+        }
+    },
+    {
+        "Designation": "Firestarter",
+        "Model": "F59-H",
+        "Class": "Light",
+        "Tons": 35,
+        "Tons Free": 16.5,
+        "To Hit": -2,
+        "Max Jets": 6,
+        "Ballistic": 2,
+        "Energy": 6,
+        "Missile": 0,
+        "Support": 6,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            }
+        }
+    },
+    {
+        "Designation": "Jenner",
+        "Model": "JR7-D",
+        "Class": "Light",
+        "Tons": 35,
+        "Tons Free": 13.5,
+        "To Hit": -2,
+        "Max Jets": 7,
+        "Ballistic": 0,
+        "Energy": 4,
+        "Missile": 2,
+        "Support": 0,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            }
+        }
+    },
+    {
+        "Designation": "Panther",
+        "Model": "PNT-9R",
+        "Class": "Light",
+        "Tons": 35,
+        "Tons Free": 21.5,
+        "To Hit": -2,
+        "Max Jets": 4,
+        "Ballistic": 0,
+        "Energy": 4,
+        "Missile": 1,
+        "Support": 0,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            }
+        }
+    },
+    {
+        "Designation": "Cicada",
+        "Model": "CDA-2A",
+        "Class": "Medium",
+        "Tons": 40,
+        "Tons Free": 6.5,
+        "To Hit": -1,
+        "Max Jets": 8,
+        "Ballistic": 0,
+        "Energy": 6,
+        "Missile": 0,
+        "Support": 2,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            }
+        }
+    },
+    {
+        "Designation": "Cicada",
+        "Model": "CDA-3C",
+        "Class": "Medium",
+        "Tons": 40,
+        "Tons Free": 14,
+        "To Hit": -1,
+        "Max Jets": 7,
+        "Ballistic": 4,
+        "Energy": 1,
+        "Missile": 0,
+        "Support": 4,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            }
+        }
+    },
+    {
+        "Designation": "Blackjack",
+        "Model": "BJ-1",
+        "Class": "Medium",
+        "Tons": 45,
+        "Tons Free": 28.5,
+        "To Hit": -1,
+        "Max Jets": 4,
+        "Ballistic": 2,
+        "Energy": 4,
+        "Missile": 0,
+        "Support": 2,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            }
+        }
+    },
+    {
+        "Designation": "Vindicator",
+        "Model": "VND-1R",
+        "Class": "Medium",
+        "Tons": 45,
+        "Tons Free": 28.5,
+        "To Hit": -1,
+        "Max Jets": 4,
+        "Ballistic": 0,
+        "Energy": 5,
+        "Missile": 1,
+        "Support": 2,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 1,
+                "Missile": 0,
+                "Support": 1,
+                "Max Armor": 0
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            }
+        }
+    },
+    {
+        "Designation": "Centurion",
+        "Model": "CN9-A",
+        "Class": "Medium",
+        "Tons": 50,
+        "Tons Free": 31.5,
+        "To Hit": -1,
+        "Max Jets": 4,
+        "Ballistic": 1,
+        "Energy": 2,
+        "Missile": 3,
+        "Support": 1,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            }
+        }
+    },
+    {
+        "Designation": "Centurion",
+        "Model": "CN9-AL",
+        "Class": "Medium",
+        "Tons": 50,
+        "Tons Free": 31.5,
+        "To Hit": -1,
+        "Max Jets": 4,
+        "Ballistic": 0,
+        "Energy": 4,
+        "Missile": 2,
+        "Support": 3,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            }
+        }
+    },
+    {
+        "Designation": "Enforcer",
+        "Model": "ENF-4R",
+        "Class": "Medium",
+        "Tons": 50,
+        "Tons Free": 31.5,
+        "To Hit": -1,
+        "Max Jets": 4,
+        "Ballistic": 1,
+        "Energy": 5,
+        "Missile": 0,
+        "Support": 1,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            }
+        }
+    },
+    {
+        "Designation": "Hunchback",
+        "Model": "HBK-4G",
+        "Class": "Medium",
+        "Tons": 50,
+        "Tons Free": 31.5,
+        "To Hit": -1,
+        "Max Jets": 4,
+        "Ballistic": 3,
+        "Energy": 2,
+        "Missile": 0,
+        "Support": 1,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 1,
+                "Max Armor": 0
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            }
+        }
+    },
+    {
+        "Designation": "Hunchback",
+        "Model": "HBK-4P",
+        "Class": "Medium",
+        "Tons": 50,
+        "Tons Free": 31.5,
+        "To Hit": -1,
+        "Max Jets": 4,
+        "Ballistic": 0,
+        "Energy": 8,
+        "Missile": 0,
+        "Support": 3,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 1,
+                "Max Armor": 0
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            }
+        }
+    },
+    {
+        "Designation": "Trebuchet",
+        "Model": "TBT-5N",
+        "Class": "Medium",
+        "Tons": 50,
+        "Tons Free": 26.5,
+        "To Hit": -1,
+        "Max Jets": 5,
+        "Ballistic": 0,
+        "Energy": 4,
+        "Missile": 2,
+        "Support": 0,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            }
+        }
+    },
+    {
+        "Designation": "Griffin",
+        "Model": "GRF-1N",
+        "Class": "Medium",
+        "Tons": 55,
+        "Tons Free": 28,
+        "To Hit": -1,
+        "Max Jets": 5,
+        "Ballistic": 0,
+        "Energy": 3,
+        "Missile": 3,
+        "Support": 1,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            }
+        }
+    },
+    {
+        "Designation": "Griffin",
+        "Model": "GRF-1S",
+        "Class": "Medium",
+        "Tons": 55,
+        "Tons Free": 28,
+        "To Hit": -1,
+        "Max Jets": 5,
+        "Ballistic": 0,
+        "Energy": 4,
+        "Missile": 2,
+        "Support": 2,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            }
+        }
+    },
+    {
+        "Designation": "Kintaro",
+        "Model": "KTO-18",
+        "Class": "Medium",
+        "Tons": 55,
+        "Tons Free": 28,
+        "To Hit": -1,
+        "Max Jets": 5,
+        "Ballistic": 0,
+        "Energy": 2,
+        "Missile": 5,
+        "Support": 0,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            }
+        }
+    },
+    {
+        "Designation": "Shadow Hawk",
+        "Model": "SHD-2D",
+        "Class": "Medium",
+        "Tons": 55,
+        "Tons Free": 28,
+        "To Hit": -1,
+        "Max Jets": 5,
+        "Ballistic": 0,
+        "Energy": 3,
+        "Missile": 3,
+        "Support": 2,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 1,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            }
+        }
+    },
+    {
+        "Designation": "Shadow Hawk",
+        "Model": "SHD-2H",
+        "Class": "Medium",
+        "Tons": 55,
+        "Tons Free": 28,
+        "To Hit": -1,
+        "Max Jets": 5,
+        "Ballistic": 3,
+        "Energy": 1,
+        "Missile": 3,
+        "Support": 1,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 1,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            }
+        }
+    },
+    {
+        "Designation": "Wolverine",
+        "Model": "WVR-6K",
+        "Class": "Medium",
+        "Tons": 55,
+        "Tons Free": 28,
+        "To Hit": -1,
+        "Max Jets": 5,
+        "Ballistic": 0,
+        "Energy": 5,
+        "Missile": 1,
+        "Support": 2,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 1,
+                "Missile": 0,
+                "Support": 1,
+                "Max Armor": 0
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            }
+        }
+    },
+    {
+        "Designation": "Wolverine",
+        "Model": "WVR-6R",
+        "Class": "Medium",
+        "Tons": 55,
+        "Tons Free": 28,
+        "To Hit": -1,
+        "Max Jets": 5,
+        "Ballistic": 2,
+        "Energy": 1,
+        "Missile": 3,
+        "Support": 1,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 1,
+                "Missile": 0,
+                "Support": 1,
+                "Max Armor": 0
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            }
+        }
+    },
+    {
+        "Designation": "Dragon",
+        "Model": "DRG-1N",
+        "Class": "Heavy",
+        "Tons": 60,
+        "Tons Free": 29,
+        "To Hit": 0,
+        "Max Jets": 5,
+        "Ballistic": 2,
+        "Energy": 2,
+        "Missile": 2,
+        "Support": 2,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            }
+        }
+    },
+    {
+        "Designation": "Quickdraw",
+        "Model": "QKD-4G",
+        "Class": "Heavy",
+        "Tons": 60,
+        "Tons Free": 29,
+        "To Hit": 0,
+        "Max Jets": 5,
+        "Ballistic": 0,
+        "Energy": 4,
+        "Missile": 2,
+        "Support": 0,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            }
+        }
+    },
+    {
+        "Designation": "Quickdraw",
+        "Model": "QKD-5A",
+        "Class": "Heavy",
+        "Tons": 60,
+        "Tons Free": 29,
+        "To Hit": 0,
+        "Max Jets": 5,
+        "Ballistic": 0,
+        "Energy": 6,
+        "Missile": 1,
+        "Support": 2,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            }
+        }
+    },
+    {
+        "Designation": "Catapult",
+        "Model": "CPLT-C1",
+        "Class": "Heavy",
+        "Tons": 65,
+        "Tons Free": 39,
+        "To Hit": 0,
+        "Max Jets": 4,
+        "Ballistic": 0,
+        "Energy": 4,
+        "Missile": 2,
+        "Support": 2,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            }
+        }
+    },
+    {
+        "Designation": "Catapult",
+        "Model": "CPLT-K2",
+        "Class": "Heavy",
+        "Tons": 65,
+        "Tons Free": 39,
+        "To Hit": 0,
+        "Max Jets": 4,
+        "Ballistic": 2,
+        "Energy": 4,
+        "Missile": 0,
+        "Support": 4,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            }
+        }
+    },
+    {
+        "Designation": "Jaegermech",
+        "Model": "JM6-A",
+        "Class": "Heavy",
+        "Tons": 65,
+        "Tons Free": 39,
+        "To Hit": 0,
+        "Max Jets": 4,
+        "Ballistic": 2,
+        "Energy": 2,
+        "Missile": 4,
+        "Support": 2,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            }
+        }
+    },
+    {
+        "Designation": "Jaegermech",
+        "Model": "JM6-S",
+        "Class": "Heavy",
+        "Tons": 65,
+        "Tons Free": 39,
+        "To Hit": 0,
+        "Max Jets": 4,
+        "Ballistic": 4,
+        "Energy": 4,
+        "Missile": 0,
+        "Support": 4,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            }
+        }
+    },
+    {
+        "Designation": "Thunderbolt",
+        "Model": "TDR-5S",
+        "Class": "Heavy",
+        "Tons": 65,
+        "Tons Free": 39,
+        "To Hit": 0,
+        "Max Jets": 4,
+        "Ballistic": 2,
+        "Energy": 4,
+        "Missile": 2,
+        "Support": 2,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            }
+        }
+    },
+    {
+        "Designation": "Thunderbolt",
+        "Model": "TDR-5SE",
+        "Class": "Heavy",
+        "Tons": 65,
+        "Tons Free": 39,
+        "To Hit": 0,
+        "Max Jets": 4,
+        "Ballistic": 0,
+        "Energy": 5,
+        "Missile": 2,
+        "Support": 3,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            }
+        }
+    },
+    {
+        "Designation": "Thunderbolt",
+        "Model": "TDR-5SS",
+        "Class": "Heavy",
+        "Tons": 65,
+        "Tons Free": 39,
+        "To Hit": 0,
+        "Max Jets": 4,
+        "Ballistic": 0,
+        "Energy": 7,
+        "Missile": 1,
+        "Support": 2,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            }
+        }
+    },
+    {
+        "Designation": "Cataphract",
+        "Model": "CTF-1X",
+        "Class": "Heavy",
+        "Tons": 70,
+        "Tons Free": 41,
+        "To Hit": 0,
+        "Max Jets": 4,
+        "Ballistic": 1,
+        "Energy": 5,
+        "Missile": 0,
+        "Support": 2,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            }
+        }
+    },
+    {
+        "Designation": "Grasshopper",
+        "Model": "GHR-5H",
+        "Class": "Heavy",
+        "Tons": 70,
+        "Tons Free": 41,
+        "To Hit": 0,
+        "Max Jets": 4,
+        "Ballistic": 0,
+        "Energy": 7,
+        "Missile": 1,
+        "Support": 6,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 1,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            }
+        }
+    },
+    {
+        "Designation": "Black Knight",
+        "Model": "BL-6-KNT",
+        "Class": "Heavy",
+        "Tons": 75,
+        "Tons Free": 42.5,
+        "To Hit": 0,
+        "Max Jets": 4,
+        "Ballistic": 0,
+        "Energy": 8,
+        "Missile": 0,
+        "Support": 3,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 1,
+                "Missile": 0,
+                "Support": 1,
+                "Max Armor": 0
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            }
+        }
+    },
+    {
+        "Designation": "Black Knight",
+        "Model": "BL-6b-KNT",
+        "Class": "Heavy",
+        "Tons": 75,
+        "Tons Free": 48,
+        "To Hit": 0,
+        "Max Jets": 4,
+        "Ballistic": 0,
+        "Energy": 9,
+        "Missile": 0,
+        "Support": 5,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 1,
+                "Missile": 0,
+                "Support": 1,
+                "Max Armor": 0
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            }
+        }
+    },
+    {
+        "Designation": "Orion",
+        "Model": "ON1-K",
+        "Class": "Heavy",
+        "Tons": 75,
+        "Tons Free": 42.5,
+        "To Hit": 0,
+        "Max Jets": 4,
+        "Ballistic": 1,
+        "Energy": 4,
+        "Missile": 2,
+        "Support": 0,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            }
+        }
+    },
+    {
+        "Designation": "Orion",
+        "Model": "ON1-V",
+        "Class": "Heavy",
+        "Tons": 75,
+        "Tons Free": 42.5,
+        "To Hit": 0,
+        "Max Jets": 4,
+        "Ballistic": 2,
+        "Energy": 2,
+        "Missile": 3,
+        "Support": 0,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            }
+        }
+    },
+    {
+        "Designation": "Awesome",
+        "Model": "AWS-8Q",
+        "Class": "Assault",
+        "Tons": 80,
+        "Tons Free": 54.5,
+        "To Hit": 0,
+        "Max Jets": 3,
+        "Ballistic": 0,
+        "Energy": 7,
+        "Missile": 0,
+        "Support": 1,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 1,
+                "Missile": 0,
+                "Support": 1,
+                "Max Armor": 0
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            }
+        }
+    },
+    {
+        "Designation": "Awesome",
+        "Model": "AWS-8T",
+        "Class": "Assault",
+        "Tons": 80,
+        "Tons Free": 54.5,
+        "To Hit": 0,
+        "Max Jets": 3,
+        "Ballistic": 0,
+        "Energy": 5,
+        "Missile": 2,
+        "Support": 3,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 1,
+                "Missile": 0,
+                "Support": 1,
+                "Max Armor": 0
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            }
+        }
+    },
+    {
+        "Desgination": "Victor",
+        "Model": "VTR-9B",
+        "Class": "Assault",
+        "Tons": 80,
+        "Tons Free": 42.5,
+        "To Hit": 0,
+        "Max Jets": 4,
+        "Ballistic": 3,
+        "Energy": 2,
+        "Missile": 2,
+        "Support": 1,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            }
+        }
+    },
+    {
+        "Designation": "Victor",
+        "Model": "VTR-9S",
+        "Class": "Assault",
+        "Tons": 80,
+        "Tons Free": 42.5,
+        "To Hit": 0,
+        "Max Jets": 4,
+        "Ballistic": 2,
+        "Energy": 2,
+        "Missile": 3,
+        "Support": 1,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            }
+        }
+    },
+    {
+        "Designation": "Zeus",
+        "Model": "ZEU-6S",
+        "Class": "Assault",
+        "Tons": 80,
+        "Tons Free": 42.5,
+        "To Hit": 0,
+        "Max Jets": 4,
+        "Ballistic": 2,
+        "Energy": 4,
+        "Missile": 1,
+        "Support": 1,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            }
+        }
+    },
+    {
+        "Designation": "Battlemaster",
+        "Model": "BLR-1G",
+        "Class": "Assault",
+        "Tons": 85,
+        "Tons Free": 42.5,
+        "To Hit": 0,
+        "Max Jets": 4,
+        "Ballistic": 2,
+        "Energy": 7,
+        "Missile": 1,
+        "Support": 2,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            }
+        }
+    },
+    {
+        "Designation": "Stalker",
+        "Model": "STK-3F",
+        "Class": "Assault",
+        "Tons": 85,
+        "Tons Free": 57.5,
+        "To Hit": 0,
+        "Max Jets": 3,
+        "Ballistic": 0,
+        "Energy": 6,
+        "Missile": 4,
+        "Support": 0,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            }
+        }
+    },
+    {
+        "Designation": "Highlander",
+        "Model": "HGN-732B",
+        "Class": "Assault",
+        "Tons": 90,
+        "Tons Free": 65.5,
+        "To Hit": 0,
+        "Max Jets": 3,
+        "Ballistic": 2,
+        "Energy": 3,
+        "Missile": 2,
+        "Support": 3,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            }
+        }
+    },
+    {
+        "Designation": "Highlander",
+        "Model": "HGN-733",
+        "Class": "Assault",
+        "Tons": 90,
+        "Tons Free": 60.5,
+        "To Hit": 0,
+        "Max Jets": 3,
+        "Ballistic": 1,
+        "Energy": 2,
+        "Missile": 4,
+        "Support": 1,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            }
+        }
+    },
+    {
+        "Designation": "Highlander",
+        "Model": "HGN-733P",
+        "Class": "Assault",
+        "Tons": 90,
+        "Tons Free": 60.5,
+        "To Hit": 0,
+        "Max Jets": 3,
+        "Ballistic": 0,
+        "Energy": 4,
+        "Missile": 3,
+        "Support": 3,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            }
+        }
+    },
+    {
+        "Designation": "Banshee",
+        "Model": "BNC-3E",
+        "Class": "Assault",
+        "Tons": 95,
+        "Tons Free": 37.5,
+        "To Hit": 0,
+        "Max Jets": 4,
+        "Ballistic": 1,
+        "Energy": 2,
+        "Missile": 0,
+        "Support": 4,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 1,
+                "Missile": 0,
+                "Support": 1,
+                "Max Armor": 0
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            }
+        }
+    },
+    {
+        "Designation": "Banshee",
+        "Model": "BNC-3M",
+        "Class": "Assault",
+        "Tons": 95,
+        "Tons Free": 37.5,
+        "To Hit": 0,
+        "Max Jets": 4,
+        "Ballistic": 0,
+        "Energy": 8,
+        "Missile": 0,
+        "Support": 6,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 1,
+                "Missile": 0,
+                "Support": 1,
+                "Max Armor": 0
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            }
+        }
+    },
+    {
+        "Designation": "Atlas",
+        "Model": "AS7-D",
+        "Class": "Assault",
+        "Tons": 100,
+        "Tons Free": 65,
+        "To Hit": 0,
+        "Max Jets": 3,
+        "Ballistic": 2,
+        "Energy": 4,
+        "Missile": 2,
+        "Support": 2,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            }
+        }
+    },
+    {
+        "Designation": "Atlas",
+        "Model": "AS7-D-HT",
+        "Class": "Assault",
+        "Tons": 100,
+        "Tons Free": 78,
+        "To Hit": 0,
+        "Max Jets": 3,
+        "Ballistic": 2,
+        "Energy": 6,
+        "Missile": 2,
+        "Support": 4,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            }
+        }
+    },
+    {
+        "Designation": "King Crab",
+        "Model": "KGC-0000",
+        "Class": "Assault",
+        "Tons": 100,
+        "Tons Free": 65,
+        "To Hit": 0,
+        "Max Jets": 3,
+        "Ballistic": 2,
+        "Energy": 4,
+        "Missile": 4,
+        "Support": 4,
+        "Hardpoints": {
+            "H": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "CT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RT": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0,
+                "Max Armor Rear": 0
+            },
+            "RA": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "LL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            },
+            "RL": {
+                "Ballistic": 0,
+                "Energy": 0,
+                "Missile": 0,
+                "Support": 0,
+                "Max Armor": 0
+            }
+        }
+    }
+]
