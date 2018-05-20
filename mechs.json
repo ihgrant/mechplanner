@@ -7,54 +7,50 @@
         "Tons Free": 7,
         "To Hit": -2,
         "Max Jets": 8,
-        "Ballistic": 0,
-        "Energy": 2,
-        "Missile": 2,
-        "Support": 2,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 1,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 2,
                 "Missile": 0,
                 "Support": 2
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 1,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
@@ -70,54 +66,50 @@
         "Tons Free": 7,
         "To Hit": -2,
         "Max Jets": 8,
-        "Ballistic": 0,
-        "Energy": 1,
-        "Missile": 4,
-        "Support": 1,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
@@ -133,54 +125,50 @@
         "Tons Free": 7,
         "To Hit": -2,
         "Max Jets": 8,
-        "Ballistic": 2,
-        "Energy": 1,
-        "Missile": 0,
-        "Support": 3,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
@@ -196,54 +184,50 @@
         "Tons Free": 12,
         "To Hit": -2,
         "Max Jets": 6,
-        "Ballistic": 0,
-        "Energy": 3,
-        "Missile": 1,
-        "Support": 2,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
@@ -259,54 +243,50 @@
         "Tons Free": 12,
         "To Hit": -2,
         "Max Jets": 6,
-        "Ballistic": 0,
-        "Energy": 1,
-        "Missile": 3,
-        "Support": 1,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
@@ -322,54 +302,50 @@
         "Tons Free": 9.5,
         "To Hit": -2,
         "Max Jets": 8,
-        "Ballistic": 0,
-        "Energy": 2,
-        "Missile": 0,
-        "Support": 2,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
@@ -385,54 +361,50 @@
         "Tons Free": 21.5,
         "To Hit": -2,
         "Max Jets": 4,
-        "Ballistic": 4,
-        "Energy": 2,
-        "Missile": 0,
-        "Support": 2,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
@@ -448,54 +420,50 @@
         "Tons Free": 16.5,
         "To Hit": -2,
         "Max Jets": 6,
-        "Ballistic": 2,
-        "Energy": 6,
-        "Missile": 0,
-        "Support": 6,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
@@ -511,54 +479,50 @@
         "Tons Free": 13.5,
         "To Hit": -2,
         "Max Jets": 7,
-        "Ballistic": 0,
-        "Energy": 4,
-        "Missile": 2,
-        "Support": 0,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
@@ -574,54 +538,50 @@
         "Tons Free": 21.5,
         "To Hit": -2,
         "Max Jets": 4,
-        "Ballistic": 0,
-        "Energy": 4,
-        "Missile": 1,
-        "Support": 0,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
@@ -637,54 +597,50 @@
         "Tons Free": 6.5,
         "To Hit": -1,
         "Max Jets": 8,
-        "Ballistic": 0,
-        "Energy": 6,
-        "Missile": 0,
-        "Support": 2,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
@@ -700,54 +656,50 @@
         "Tons Free": 14,
         "To Hit": -1,
         "Max Jets": 7,
-        "Ballistic": 4,
-        "Energy": 1,
-        "Missile": 0,
-        "Support": 4,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
@@ -763,54 +715,50 @@
         "Tons Free": 28.5,
         "To Hit": -1,
         "Max Jets": 4,
-        "Ballistic": 2,
-        "Energy": 4,
-        "Missile": 0,
-        "Support": 2,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
@@ -826,54 +774,50 @@
         "Tons Free": 28.5,
         "To Hit": -1,
         "Max Jets": 4,
-        "Ballistic": 0,
-        "Energy": 5,
-        "Missile": 1,
-        "Support": 2,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 1,
                 "Missile": 0,
                 "Support": 1
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
@@ -889,54 +833,50 @@
         "Tons Free": 31.5,
         "To Hit": -1,
         "Max Jets": 4,
-        "Ballistic": 1,
-        "Energy": 2,
-        "Missile": 3,
-        "Support": 1,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
@@ -952,54 +892,50 @@
         "Tons Free": 31.5,
         "To Hit": -1,
         "Max Jets": 4,
-        "Ballistic": 0,
-        "Energy": 4,
-        "Missile": 2,
-        "Support": 3,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
@@ -1015,54 +951,50 @@
         "Tons Free": 31.5,
         "To Hit": -1,
         "Max Jets": 4,
-        "Ballistic": 1,
-        "Energy": 5,
-        "Missile": 0,
-        "Support": 1,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
@@ -1078,54 +1010,50 @@
         "Tons Free": 31.5,
         "To Hit": -1,
         "Max Jets": 4,
-        "Ballistic": 3,
-        "Energy": 2,
-        "Missile": 0,
-        "Support": 1,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 1
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
@@ -1141,54 +1069,50 @@
         "Tons Free": 31.5,
         "To Hit": -1,
         "Max Jets": 4,
-        "Ballistic": 0,
-        "Energy": 8,
-        "Missile": 0,
-        "Support": 3,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 1
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
@@ -1204,54 +1128,50 @@
         "Tons Free": 26.5,
         "To Hit": -1,
         "Max Jets": 5,
-        "Ballistic": 0,
-        "Energy": 4,
-        "Missile": 2,
-        "Support": 0,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
@@ -1267,54 +1187,50 @@
         "Tons Free": 28,
         "To Hit": -1,
         "Max Jets": 5,
-        "Ballistic": 0,
-        "Energy": 3,
-        "Missile": 3,
-        "Support": 1,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
@@ -1330,54 +1246,50 @@
         "Tons Free": 28,
         "To Hit": -1,
         "Max Jets": 5,
-        "Ballistic": 0,
-        "Energy": 4,
-        "Missile": 2,
-        "Support": 2,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
@@ -1393,54 +1305,50 @@
         "Tons Free": 28,
         "To Hit": -1,
         "Max Jets": 5,
-        "Ballistic": 0,
-        "Energy": 2,
-        "Missile": 5,
-        "Support": 0,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
@@ -1456,54 +1364,50 @@
         "Tons Free": 28,
         "To Hit": -1,
         "Max Jets": 5,
-        "Ballistic": 0,
-        "Energy": 3,
-        "Missile": 3,
-        "Support": 2,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 1,
                 "Support": 0
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
@@ -1519,54 +1423,50 @@
         "Tons Free": 28,
         "To Hit": -1,
         "Max Jets": 5,
-        "Ballistic": 3,
-        "Energy": 1,
-        "Missile": 3,
-        "Support": 1,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 1,
                 "Support": 0
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
@@ -1582,54 +1482,50 @@
         "Tons Free": 28,
         "To Hit": -1,
         "Max Jets": 5,
-        "Ballistic": 0,
-        "Energy": 5,
-        "Missile": 1,
-        "Support": 2,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 1,
                 "Missile": 0,
                 "Support": 1
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
@@ -1645,54 +1541,50 @@
         "Tons Free": 28,
         "To Hit": -1,
         "Max Jets": 5,
-        "Ballistic": 2,
-        "Energy": 1,
-        "Missile": 3,
-        "Support": 1,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 1,
                 "Missile": 0,
                 "Support": 1
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
@@ -1708,54 +1600,50 @@
         "Tons Free": 29,
         "To Hit": 0,
         "Max Jets": 5,
-        "Ballistic": 2,
-        "Energy": 2,
-        "Missile": 2,
-        "Support": 2,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
@@ -1771,54 +1659,50 @@
         "Tons Free": 29,
         "To Hit": 0,
         "Max Jets": 5,
-        "Ballistic": 0,
-        "Energy": 4,
-        "Missile": 2,
-        "Support": 0,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
@@ -1834,54 +1718,50 @@
         "Tons Free": 29,
         "To Hit": 0,
         "Max Jets": 5,
-        "Ballistic": 0,
-        "Energy": 6,
-        "Missile": 1,
-        "Support": 2,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
@@ -1897,54 +1777,50 @@
         "Tons Free": 39,
         "To Hit": 0,
         "Max Jets": 4,
-        "Ballistic": 0,
-        "Energy": 4,
-        "Missile": 2,
-        "Support": 2,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
@@ -1960,54 +1836,50 @@
         "Tons Free": 39,
         "To Hit": 0,
         "Max Jets": 4,
-        "Ballistic": 2,
-        "Energy": 4,
-        "Missile": 0,
-        "Support": 4,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
@@ -2023,54 +1895,50 @@
         "Tons Free": 39,
         "To Hit": 0,
         "Max Jets": 4,
-        "Ballistic": 2,
-        "Energy": 2,
-        "Missile": 4,
-        "Support": 2,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
@@ -2086,54 +1954,50 @@
         "Tons Free": 39,
         "To Hit": 0,
         "Max Jets": 4,
-        "Ballistic": 4,
-        "Energy": 4,
-        "Missile": 0,
-        "Support": 4,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
@@ -2149,54 +2013,50 @@
         "Tons Free": 39,
         "To Hit": 0,
         "Max Jets": 4,
-        "Ballistic": 2,
-        "Energy": 4,
-        "Missile": 2,
-        "Support": 2,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
@@ -2212,54 +2072,50 @@
         "Tons Free": 39,
         "To Hit": 0,
         "Max Jets": 4,
-        "Ballistic": 0,
-        "Energy": 5,
-        "Missile": 2,
-        "Support": 3,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
@@ -2275,54 +2131,50 @@
         "Tons Free": 39,
         "To Hit": 0,
         "Max Jets": 4,
-        "Ballistic": 0,
-        "Energy": 7,
-        "Missile": 1,
-        "Support": 2,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
@@ -2338,54 +2190,50 @@
         "Tons Free": 41,
         "To Hit": 0,
         "Max Jets": 4,
-        "Ballistic": 1,
-        "Energy": 5,
-        "Missile": 0,
-        "Support": 2,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
@@ -2401,54 +2249,50 @@
         "Tons Free": 41,
         "To Hit": 0,
         "Max Jets": 4,
-        "Ballistic": 0,
-        "Energy": 7,
-        "Missile": 1,
-        "Support": 6,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 1,
                 "Support": 0
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
@@ -2464,54 +2308,50 @@
         "Tons Free": 42.5,
         "To Hit": 0,
         "Max Jets": 4,
-        "Ballistic": 0,
-        "Energy": 8,
-        "Missile": 0,
-        "Support": 3,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 1,
                 "Missile": 0,
                 "Support": 1
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
@@ -2527,54 +2367,50 @@
         "Tons Free": 48,
         "To Hit": 0,
         "Max Jets": 4,
-        "Ballistic": 0,
-        "Energy": 9,
-        "Missile": 0,
-        "Support": 5,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 1,
                 "Missile": 0,
                 "Support": 1
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
@@ -2590,54 +2426,50 @@
         "Tons Free": 42.5,
         "To Hit": 0,
         "Max Jets": 4,
-        "Ballistic": 1,
-        "Energy": 4,
-        "Missile": 2,
-        "Support": 0,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
@@ -2653,54 +2485,50 @@
         "Tons Free": 42.5,
         "To Hit": 0,
         "Max Jets": 4,
-        "Ballistic": 2,
-        "Energy": 2,
-        "Missile": 3,
-        "Support": 0,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
@@ -2716,54 +2544,50 @@
         "Tons Free": 54.5,
         "To Hit": 0,
         "Max Jets": 3,
-        "Ballistic": 0,
-        "Energy": 7,
-        "Missile": 0,
-        "Support": 1,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 1,
                 "Missile": 0,
                 "Support": 1
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
@@ -2779,54 +2603,50 @@
         "Tons Free": 54.5,
         "To Hit": 0,
         "Max Jets": 3,
-        "Ballistic": 0,
-        "Energy": 5,
-        "Missile": 2,
-        "Support": 3,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 1,
                 "Missile": 0,
                 "Support": 1
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
@@ -2842,54 +2662,50 @@
         "Tons Free": 42.5,
         "To Hit": 0,
         "Max Jets": 4,
-        "Ballistic": 3,
-        "Energy": 2,
-        "Missile": 2,
-        "Support": 1,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
@@ -2905,54 +2721,50 @@
         "Tons Free": 42.5,
         "To Hit": 0,
         "Max Jets": 4,
-        "Ballistic": 2,
-        "Energy": 2,
-        "Missile": 3,
-        "Support": 1,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
@@ -2968,54 +2780,50 @@
         "Tons Free": 42.5,
         "To Hit": 0,
         "Max Jets": 4,
-        "Ballistic": 2,
-        "Energy": 4,
-        "Missile": 1,
-        "Support": 1,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
@@ -3031,54 +2839,50 @@
         "Tons Free": 42.5,
         "To Hit": 0,
         "Max Jets": 4,
-        "Ballistic": 2,
-        "Energy": 7,
-        "Missile": 1,
-        "Support": 2,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
@@ -3094,54 +2898,50 @@
         "Tons Free": 57.5,
         "To Hit": 0,
         "Max Jets": 3,
-        "Ballistic": 0,
-        "Energy": 6,
-        "Missile": 4,
-        "Support": 0,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
@@ -3157,54 +2957,50 @@
         "Tons Free": 65.5,
         "To Hit": 0,
         "Max Jets": 3,
-        "Ballistic": 2,
-        "Energy": 3,
-        "Missile": 2,
-        "Support": 3,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
@@ -3220,54 +3016,50 @@
         "Tons Free": 60.5,
         "To Hit": 0,
         "Max Jets": 3,
-        "Ballistic": 1,
-        "Energy": 2,
-        "Missile": 4,
-        "Support": 1,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
@@ -3283,54 +3075,50 @@
         "Tons Free": 60.5,
         "To Hit": 0,
         "Max Jets": 3,
-        "Ballistic": 0,
-        "Energy": 4,
-        "Missile": 3,
-        "Support": 3,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
@@ -3346,54 +3134,50 @@
         "Tons Free": 37.5,
         "To Hit": 0,
         "Max Jets": 4,
-        "Ballistic": 1,
-        "Energy": 2,
-        "Missile": 0,
-        "Support": 4,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 1,
                 "Missile": 0,
                 "Support": 1
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
@@ -3409,54 +3193,50 @@
         "Tons Free": 37.5,
         "To Hit": 0,
         "Max Jets": 4,
-        "Ballistic": 0,
-        "Energy": 8,
-        "Missile": 0,
-        "Support": 6,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 1,
                 "Missile": 0,
                 "Support": 1
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
@@ -3472,54 +3252,50 @@
         "Tons Free": 65,
         "To Hit": 0,
         "Max Jets": 3,
-        "Ballistic": 2,
-        "Energy": 4,
-        "Missile": 2,
-        "Support": 2,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
@@ -3535,54 +3311,50 @@
         "Tons Free": 78,
         "To Hit": 0,
         "Max Jets": 3,
-        "Ballistic": 2,
-        "Energy": 6,
-        "Missile": 2,
-        "Support": 4,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
@@ -3598,54 +3370,50 @@
         "Tons Free": 65,
         "To Hit": 0,
         "Max Jets": 3,
-        "Ballistic": 2,
-        "Energy": 4,
-        "Missile": 4,
-        "Support": 4,
         "Hardpoints": {
-            "H": {
+            "h": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LA": {
+            "la": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LT": {
+            "lt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "CT": {
+            "ct": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RT": {
+            "rt": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RA": {
+            "ra": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "LL": {
+            "ll": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,
                 "Support": 0
             },
-            "RL": {
+            "rl": {
                 "Ballistic": 0,
                 "Energy": 0,
                 "Missile": 0,

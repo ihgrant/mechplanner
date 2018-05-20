@@ -236,5 +236,37 @@
         "Min": 0,
         "Optimal": 90,
         "Max": 90
+    },
+    {
+        "Designation": "Jump Jet (S)",
+        "Type": "Equipment",
+        "Tonnage": 0.5,
+        "Slots": 1
+    },
+    {
+        "Designation": "Jump Jet (H)",
+        "Type": "Equipment",
+        "Tonnage": 1,
+        "Slots": 1
+    },
+    {
+        "Designation": "Jump Jet (A)",
+        "Type": "Equipment",
+        "Tonnage": 2,
+        "Slots": 1
+    },
+    {
+        "Designation": "Heat Sink",
+        "Type": "Equipment",
+        "Tonnage": 1,
+        "Slots": 1,
+        "Heat": -3
+    },
+    {
+        "Designation": "Heat Sink (D)",
+        "Type": "Equipment",
+        "Tonnage": 1,
+        "Slots": 3,
+        "Heat": -6
     }
 ]
